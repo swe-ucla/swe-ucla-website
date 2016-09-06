@@ -1,0 +1,64 @@
+// VARIABLES: 
+$nav-background: rgba(54, 25, 25, 0);
+
+// SMALL NAVIGATION
+.logo-small {
+	float: right; 
+}
+
+.title-bar {
+	padding: 0.5rem;
+}
+
+.menu-icon,
+.title-bar-title {
+  position: relative;
+  top: 10px;
+}
+
+// MEDIUM-UP NAVIGATION
+@media only screen and (min-width: 40rem) { 
+  
+	.logo-wrapper 
+	{
+		position: relative;
+		.logo 
+		{
+			float: left;
+		}
+	}
+
+	.top-bar 
+	{
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: center;
+		position:relative;
+		z-index: 1000;
+		background: $nav-background;
+  		
+  		.top-bar-left
+  		{
+  			ul 
+  			{
+  				background-color: $nav-background;
+  			}
+
+		    li 
+		    {
+		    	padding: 10px;
+		    	.submenu li 
+		    	{
+
+		    		background-color: rgba(54, 25, 25, .5);
+		    		padding: 0px;
+		    	}
+    		}
+
+    		a 
+    		{
+    			color: #fff;
+    		}
+		}
+	}
+}

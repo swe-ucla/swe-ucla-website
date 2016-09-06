@@ -1,0 +1,36 @@
+// Small Navigation
+.title-bar{"data-hide-for" => "medium", "data-responsive-toggle" => "nav-menu"}
+    %a.logo-small.show-for-small-only{:href => "#"}
+        %img{:src => "http://placehold.it/50x50?text=LOGO"}/
+    %button.menu-icon{"data-toggle" => "", :type => "button"}
+    .title-bar-title Menu
+
+// Medium-Up Navigation
+%nav#nav-menu.top-bar
+    .logo-wrapper.hide-for-small-only
+        .logo
+            %img{:src => lorem.image('175x75', :text => 'a fucking logo')}/
+    .top-bar-left
+        %ul.vertical.medium-horizontal.menu{"data-responsive-menu" => "drilldown medium-dropdown"}
+            %li
+                %a{:href => "#"} Menu 1
+            %li.has-submenu
+                %a{:href => "#"} Menu 2
+                %ul.submenu.menu.vertical.medium-horizontal{"data-submenu" => ""}
+                    %li
+                        %a{:href => "#"} First link in dropdown
+            %li.has-submenu
+                %a{:href => "#"} Menu 3
+                %ul.submenu.menu.vertical.medium-horizontal{"data-submenu" => ""}
+                    %li
+                        %a{:href => "#"} First link in dropdown
+            %li.has-submenu
+                %a{:href => "#"} Menu 4
+                %ul.submenu.menu.vertical.medium-horizontal{"data-submenu" => ""}
+                    %li
+                        %a{:href => "#"} First link in dropdown
+            %li.has-submenu
+                %a{:href => "#"} Menu 5
+                %ul.submenu.menu.vertical{"data-submenu" => ""}
+                    %li
+                        %a{:href => "#"} First link in dropdown
