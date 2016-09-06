@@ -8,6 +8,8 @@ desc "deploy to github pages"
 task :deploy do
   p "## Deploying to Github Pages"
   cd "build" do
+    system "cp -a . ../../swe-ucla.github.io"
+    system "cd ../../swe-ucla.github.io"
     system "git add -A"
     message = "Site updated at #{Time.now.utc}"
     p "## Commiting: #{message}"
