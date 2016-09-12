@@ -1,5 +1,6 @@
 // VARIABLES: 
-$nav-background: rgba(54, 25, 25, 0);
+$nav-background: rgba(0, 0, 0, 0);
+$dropdown-background: rgba(88, 74, 106, .5);
 
 // SMALL NAVIGATION
 .logo-small {
@@ -26,10 +27,17 @@ $nav-background: rgba(54, 25, 25, 0);
 		position: relative;
 		.logo 
 		{
+			margin-right: 1.5em;
 			max-height: 75px;
 			max-width: 200px;
 			float: left;
 		}
+	}
+
+	// A lil hack to change the arrows white
+	.dropdown.menu.medium-horizontal > li.is-dropdown-submenu-parent > a::after 
+	{
+		border-color: white transparent transparent;
 	}
 
 	.top-bar 
@@ -37,31 +45,54 @@ $nav-background: rgba(54, 25, 25, 0);
 		display: flex;
 		flex-flow: row wrap;
 		justify-content: center;
+		align-items: baseline;
 		position:relative;
 		z-index: 1000;
 		background: $nav-background;
   		
   		.top-bar-left
   		{
+
+    		a 
+    		{
+    			color: #fff;
+    		}
+
   			ul 
   			{
   				background-color: $nav-background;
   			}
 
+  			// Remove submenu border
+  			.is-dropdown-submenu
+  			{
+  				border: 0px;
+  			}
+
+  			/* DROP DOWN */
 		    li 
 		    {
-		    	padding: 10px;
+
+		    	a:hover
+		    	{
+		    		background: $dropdown-background;
+		    		border-radius: 15px;
+		    	}
+
+		    	/* DROP DOWN SUBMENU */
 		    	.submenu li 
 		    	{
-
-		    		background-color: rgba(54, 25, 25, .5);
-		    		padding: 0px;
+		    		a
+		    		{
+  						margin-bottom: 0.1em;
+		    			padding: 0.3em 1em 0.3em 1em;
+		    		}
+		    		a:hover
+		    		{
+		    			background: #fff;
+		    			color: #000;
+		    		}
 		    	}
-    		}
-
-    		a 
-    		{
-    			color: #fff;
     		}
 		}
 	}
