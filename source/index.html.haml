@@ -1,3 +1,25 @@
 ---
 title: Welcome to Middleman
 ---
+.row
+    .large-8.columns
+        %h2 Announcements
+        = lorem.paragraphs 1
+    .large-4.columns
+        %img{:src => lorem.image('200x200', :text => 'cool img', :random_color => true)}
+.row
+    .large-6.columns
+        %h2 Upcoming Events
+        %ul
+            - (1..5).each do |i|
+                %li #{lorem.sentence}
+    .large-6.columns
+        %h2 Join our mailing list!
+        %input{:type => "text", :placeholder => "email"}
+        %button.button Submit
+.row
+    .large-4.columns
+        %img{:src => lorem.image('200x200', :text => 'cool img', :random_color => true)}
+    .large-8.columns
+        %h2 How to get involved:
+        = lorem.paragraphs 1
