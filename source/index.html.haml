@@ -1,25 +1,33 @@
 ---
 title: Welcome to Middleman
 ---
-.row
-    .large-8.columns
-        %h2 Announcements
-        = lorem.paragraphs 1
-    .large-4.columns
-        %img{:src => lorem.image('200x200', :text => 'cool img', :random_color => true)}
-.row
+.row.margin-bottom-m.img-panel{"data-equalizer" => ""}
+    .large-8.columns{"data-equalizer-watch" => ""}
+        %h1 Announcements
+        %h4 SWE General Meeting
+        %p 
+            = lorem.paragraphs 2
+        %button.button View Past Announcements
+    .large-4.columns{"data-equalizer-watch" => ""}
+        %img{:src => "http://loremflickr.com/1000/650"}
+.row.margin-bottom-m
     .large-6.columns
-        %h2 Upcoming Events
+        %h1 Upcoming Events
+        %h4 Week 0
         %ul
             - (1..5).each do |i|
                 %li #{lorem.sentence}
+        %p
+            Check out our 
+            %a{:href => "/"} calendar 
+            for more upcoming events!
     .large-6.columns
-        %h2 Join our mailing list!
+        %h1 Join our mailing list!
         %input{:type => "text", :placeholder => "email"}
         %button.button Submit
-.row
-    .large-4.columns
-        %img{:src => lorem.image('200x200', :text => 'cool img', :random_color => true)}
-    .large-8.columns
-        %h2 How to get involved:
+.row.margin-bottom-m.img-panel{"data-equalizer" => ""}
+    .large-4.columns{"data-equalizer-watch" => ""}
+        %img{:src => lorem.image('300x100', :text => 'cool img', :random_color => true)}
+    .large-8.columns{"data-equalizer-watch" => ""}
+        %h1 How to get involved:
         = lorem.paragraphs 1
