@@ -46,6 +46,7 @@ end
 # Reload the browser automatically whenever files change
 configure :development do
   activate :livereload
+  activate :directory_indexes
 end
 
 # Methods defined in the helpers block are available in templates
@@ -72,6 +73,8 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+set :relative_links, true
+
 ignore "bower_components/*"
 
 ignore "javascripts/app.js"
@@ -90,8 +93,10 @@ configure :build do
   # activate :asset_hash
 
   # Use relative URLs
-  # activate :relative_assets
+  activate :relative_assets
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+
+  activate :directory_indexes
 end
