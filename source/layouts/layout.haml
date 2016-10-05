@@ -11,8 +11,14 @@
         %script{:src => "https://use.fontawesome.com/ddf1e2e3e6.js"}
     %body{:class => page_classes}
         = partial "nav"
-        .header
-            %img{:src => "/images/main-header.png"}
+        .hero
+            .header.hero-text
+                %p 
+                    Aspire.
+                    %br  
+                    Advance.
+                    %br
+                    Achieve.
         .container.row
             .large-12.columns
                 = yield

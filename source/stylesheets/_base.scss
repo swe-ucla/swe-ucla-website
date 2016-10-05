@@ -52,8 +52,29 @@ h4 {
 	}
 }
 
+.hero{
+  background-image:url("/images/main-header.png");
+  background-size:cover;
+  position:relative;
+  height:100vh;
+  @media only screen and (min-width: 40rem) { 
+  	margin-top: -100px;
+  }
+}
 
-.header img {
-	margin-top: -100px;
-	width: 100%;
+.hero-text {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3.5em;
+}
+
+.header{
+  position:absolute;
+  top:50%;
+  text-align:center;
+  width:100%;
+  color:#fff;
+  -ms-transform: translate(0,-50%); /* IE 9 */
+    -webkit-transform: translate(0,-50%); /* Safari */
+    transform: translate(0,-50%);  
+
 }
