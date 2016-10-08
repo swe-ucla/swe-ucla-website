@@ -57,10 +57,10 @@ end
 # end
 
 # Add bower's directory to sprockets asset path
-after_configuration do
-  @bower_config = JSON.parse(IO.read("#{root}/.bowerrc"))
-  sprockets.append_path File.join "#{root}", @bower_config["directory"]
-end
+# after_configuration do
+  #@bower_config = JSON.parse(IO.read("#{root}/.bowerrc"))
+  #sprockets.append_path File.join "#{root}", @bower_config["directory"]
+#end
 
 # Use the correct vendor prefixes for foundation
 activate :autoprefixer do |config|

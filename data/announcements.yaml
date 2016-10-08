@@ -1,13 +1,3 @@
--   title: Phillips 66 Infosession
-    image:
-    subtitle: ESUC Lounge
-    description: "
-    Phillips 66 Infosession! 
-    Join us for refreshments and meet with Refining & Midstream Engineering recruiters to learn more about career opportunities at Phillips 66.
-    <ul>
-        <li> Test </li>
-    </ul>
-    "
 -   title: SWE General Meeting
     image:
     subtitle: Boelter Penthouse
@@ -15,4 +5,20 @@
     HI!
     <br>
     this is a test
+    "
+
+-   title: Phillips 66 Infosession
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Phillips66-Logo.svg/2000px-Phillips66-Logo.svg.png
+    subtitle: ESUC Lounge
+    description: "
+    Phillips 66 Infosession!
+    Join us for refreshments and meet with Refining & Midstream Engineering recruiters to learn more about career opportunities at Phillips 66.
+    <br>
+    <b>IMPORTANT PHILLIPS 66 RECRUITING DATES </b>
+    <br>
+    <ul>
+        <li>Engineering & Technical Career Fair – Oct. 13-14 </li>
+        <li>Interviews – Oct. 25 </li>
+        <li>Resume submission deadline – Oct. 15 </li>
+    </ul>
     "

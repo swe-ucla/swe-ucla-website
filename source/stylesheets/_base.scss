@@ -57,9 +57,6 @@ h4 {
   background-size:cover;
   position:relative;
   height:100vh;
-  @media only screen and (min-width: 40rem) { 
-  	margin-top: -100px;
-  }
 }
 
 .hero-text {
@@ -77,4 +74,21 @@ h4 {
     -webkit-transform: translate(0,-50%); /* Safari */
     transform: translate(0,-50%);  
 
+}
+
+.content-panel {
+  background: #fff;
+  padding: 1.75rem;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+
+  img {
+  	
+  }
+}
+
+
+.row.wide {
+  max-width: rem-calc(1200);
 }
