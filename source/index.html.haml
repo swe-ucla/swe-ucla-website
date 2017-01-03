@@ -1,49 +1,54 @@
 ---
 title: SWE UCLA
+bgcolor: "#81c4ec"
+bgimage: "/images/front-page-splash.jpg"
+splashtext: "Aspire. <br> Advance. <br> Achieve."
 ---
 .row.margin-bottom-m{"data-equalizer" => ""}
     .large-12.columns{"data-equalizer-watch" => ""}
-        %h1 Announcements
+        %h1.bold Announcements
         - data.announcements.each do |a|
             %article.content-panel.row.wide
                 - if a["image"]
                     .large-4.columns
                         %img{:src => a["image"]}
                     .large-8.columns
-                        %h4 
+                        %h2 
                             = a["title"]
-                        %h6
+                        %h5
                             = a["subtitle"]
                         %p
                             = a["description"]
                 - else
                     .large-12.columns
-                        %h4 
+                        %h2 
                             = a["title"]
-                        %h6
+                        %h5
                             = a["subtitle"]
                         %p
                             = a["description"]
-        %button.button View Past Announcements
    
 .row.margin-bottom-m
-    .large-6.columns
-        %h1 Upcoming Events
-        %h4 Week 0
+    .large-6.columns.events
+        %h1.bold Upcoming Events
+        %br
+        %h2 WEEK 0
         %ul
-            - (1..5).each do |i|
-                %li #{lorem.sentence}
+            - data.events.each do |e|
+                %li 
+                    = e["description"]
+                    - if e["fb"]
+                        %a{:href => e["fb"], :title => "Facebook Event", "aria-hidden" => "true"} 
+                            %i.fa.fa-facebook-square{"aria-hidden" => "true"}
+                    - if e["link"]
+                        %a{:href => e["link"], :title => "RSVP", "aria-hidden" => "true"} 
+                            %i.fa.fa-link{"aria-hidden" => "true"}
         %p
             Check out our 
             %a{:href => "/"} calendar 
             for more upcoming events!
     .large-6.columns
-        %h1 Join our mailing list!
-        %input{:type => "text", :placeholder => "email"}
-        %button.button Submit
-.row.margin-bottom-m.img-panel{"data-equalizer" => ""}
-    .large-4.columns{"data-equalizer-watch" => ""}
-        %img{:src => lorem.image('300x100', :text => 'cool img', :random_color => true)}
-    .large-8.columns{"data-equalizer-watch" => ""}
-        %h1 How to get involved:
-        = lorem.paragraphs 1
+        %h1.bold Join our mailing list!
+        %p
+            Never miss out on a SWE event or job/internship opportunities! If you missed it, check out all our old ones here. #{link_to 'here', 'http://us11.campaign-archive2.com/home/?u=577d9373840e4ffe2e76d32e1&id=e94638c22e'}. 
+        = partial "mailchimp"

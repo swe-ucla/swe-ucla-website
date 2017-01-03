@@ -6,45 +6,46 @@
     .title-bar-title Menu
 
 // Medium-Up Navigation
-%nav#nav-menu.top-bar
-    .logo-wrapper.hide-for-small-only
-        .logo
-            %a{:href => "/index.html"}
-                %img{:src => "/images/swe-logo.png"}/
-    .top-bar-left
-        %ul.vertical.medium-horizontal.menu{"data-responsive-menu" => "drilldown medium-dropdown"}
-            %li
-                %a{:href => "#"} About SWE-UCLA
-                %ul.submenu.menu.vertical.medium-vertical{"data-submenu" => ""}
-                    %li
-                        %a{:href => "/about/how-to-join"} How to Join
-                    %li
-                        %a{:href => "/about/swe-board"} SWE Board 2016-2017
-            %li.has-submenu
-                %a{:href => "#"} Committees
-                %ul.s.menu.vertical.medium-vertical{"data-submenu" => ""}
-                    %li
-                        %a{:href => "/committees/outreach"} Outreach
-                    %li
-                        %a{:href => "/committees/major"} Major
-                    %li
-                        %a{:href => "/committees/advocacy"} Advocacy
-                    %li
-                        %a{:href => "/committees/ewi"} EWI
-            %li.has-submenu
-                %a{:href => "#"} Events
-                %ul.submenu.menu.vertical.medium-vertical{"data-submenu" => ""}
-                    %li
-                        %a{:href => "/events/calendar"} Calendar
-                    %li
-                        %a{:href => "/events/ewi"} EWI
-                    %li
-                        %a{:href => "/events/wesp"} WESP
-                    %li
-                        %a{:href => "/events/epec"} EPEC
-                    %li
-                        %a{:href => "/events/announcements"} Announcements
-            %li.has-submenu
-                %a{:href => "/contact"} Contact
-            %li.has-submenu
-                %a{:href => "/sponsors"} Sponsors
+.nav-wrapper
+    %nav#nav-menu.top-bar{"data-start" => "position: relative;", "data-top" => "position:fixed; top:0; left: 0;width: 100%; "}
+        .logo-wrapper.hide-for-small-only
+            .logo
+                %a{:href => "/index.html"}
+                    %img{:src => "/images/swe-logo.png"}/
+        .top-bar-left
+            %ul.vertical.medium-horizontal.menu{"data-responsive-menu" => "drilldown medium-dropdown"}
+                %li
+                    %a{:href => "#"} About SWE-UCLA
+                    %ul.submenu.menu.vertical.medium-vertical{"data-submenu" => ""}
+                        %li
+                            %a{:href => "/about/how-to-join"} How to Join
+                        %li
+                            %a{:href => "/about/swe-board"} SWE Board 2016-2017
+                %li.has-submenu
+                    %a{:href => "#"} Committees
+                    %ul.s.menu.vertical.medium-vertical{"data-submenu" => ""}
+                        %li
+                            %a{:href => "/committees/outreach"} Outreach
+                        %li
+                            %a{:href => "/committees/major"} Major
+                        %li
+                            %a{:href => "/committees/advocacy"} Advocacy
+                        %li
+                            %a{:href => "/committees/ewi"} EWI
+                        %li
+                            %a{:href => "/committees/gradswe"} GradSWE
+                %li.has-submenu
+                    %a{:href => "#"} Events
+                    %ul.submenu.menu.vertical.medium-vertical{"data-submenu" => ""}
+                        %li
+                            %a{:href => "/events/calendar"} Calendar
+                        %li
+                            %a{:href => "/events/ewi"} EWI
+                        %li
+                            %a{:href => "/events/wesp"} WESP
+                        %li
+                            %a{:href => "/events/epec"} EPEC
+                %li.has-submenu
+                    %a{:href => "/contact"} Contact
+                %li.has-submenu
+                    %a{:href => "/sponsors"} Sponsors

@@ -6,21 +6,29 @@
         %meta{:content => "ie=edge", "http-equiv" => "x-ua-compatible"}
         %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}
         %link{:href => "https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:300,400", :rel => "stylesheet"}
-        %title= "Test"
+        %title= current_page.data.title
         = stylesheet_link_tag "style"
         %script{:src => "https://use.fontawesome.com/ddf1e2e3e6.js"}
     %body{:class => page_classes}
-        .hero
-            .header.hero-text
-                %p 
-                    Aspire.
-                    %br  
-                    Advance.
-                    %br
-                    Achieve.
+        %header{:style => "background: #{current_page.data.bgcolor};"}
+            .splash{:style => "background-image:url(#{current_page.data.bgimage});", "data-top" => "background-position: 50% 0px; opacity:1;", "data-375" => "background-position: 50% -100px; opacity:0"}
+                %p.splash-text 
+                    #{current_page.data.splashtext}
+        = partial "nav"          
         .container.row
             .large-12.columns
-                = yield
+                .main
+                    = yield
         = partial "footer"
-        = javascript_include_tag  "all"
-    
+        = javascript_include_tag  "jquery.min"
+        = javascript_include_tag "foundation.min"
+        = javascript_include_tag "skrollr.min"
+        = javascript_include_tag "modernizr"
+        = javascript_include_tag "script"
+        %script{:type =>"text/javascript"}
+            $(document).foundation();
+            $(document).ready(function(){skrollr.init();});
+
+
+            
+

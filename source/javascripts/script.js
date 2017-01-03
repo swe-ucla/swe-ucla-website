@@ -1,6 +1,3 @@
-(function() {
-  $(function() {
-    return console.log("hello");
-  });
-
-}).call(this);
+$(document).ready(function() {
+    console.log( "ready!" );
+});
