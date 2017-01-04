@@ -24,10 +24,9 @@
         = javascript_include_tag "foundation.min"
         = javascript_include_tag "skrollr.min"
         = javascript_include_tag "modernizr"
-        = javascript_include_tag "script"
         %script{:type =>"text/javascript"}
             $(document).foundation();
-            $(document).ready(function(){skrollr.init();if (s.isMobile()) {s.destroy();}});
+            $(document).ready(function(){if ($(window).width() > 767) {skrollr.init()}});
 
 
             
