@@ -1,0 +1,37 @@
+---
+title: SWE Board 2016-2017
+bgcolor: "#E57D3C"
+bgimage: "/images/gear-overlay.png"
+splashtext: "<br> SWE Board 2016-2017"
+---
+- data.board.each do |e|
+	.row
+		.medium-12.columns
+			.profile-card
+				.row
+					.medium-4.columns
+						.profile-card-img{:style => "background-image:url(#{e["image"]});"}
+					.medium-8.columns
+						.profile-info
+							%h2 
+								= e["position"]
+							%h3
+								= e["name"]
+							%p  
+								%span.tag 
+									Year:
+								= e["year"]
+							%p
+								%span.tag 
+									Major:
+								= e["major"]
+							%p
+								%span.tag 
+									Interests: 
+								= e["interests"]
+							%p
+								%span.tag 
+									What I Love About SWE:
+								= e["loves"]
+
+

@@ -27,7 +27,7 @@
         = javascript_include_tag "script"
         %script{:type =>"text/javascript"}
             $(document).foundation();
-            $(document).ready(function(){skrollr.init();});
+            $(document).ready(function(){skrollr.init();if (s.isMobile()) {s.destroy();}});
 
 
             
