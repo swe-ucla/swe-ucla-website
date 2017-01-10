@@ -58,6 +58,14 @@ h5 {
 	background-color: get-color('swe-yellow');
 }
 
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
 
 // HEADER: 
 
@@ -84,7 +92,11 @@ h5 {
 	padding: 5% 5% 5%;
 }
 
-
+.content-img {
+	img {
+		padding: 1em;
+	}
+}
 
 .content-panel {
   background: #fff;

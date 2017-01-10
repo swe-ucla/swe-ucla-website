@@ -22,12 +22,11 @@
         = partial "footer"
         = javascript_include_tag  "jquery.min"
         = javascript_include_tag "foundation.min"
+        = javascript_include_tag "foundation.equalizer"
         = javascript_include_tag "skrollr.min"
         = javascript_include_tag "modernizr"
-        %script{:type =>"text/javascript"}
+        = javascript_include_tag "script"
+        :javascript
             $(document).foundation();
-            $(document).ready(function(){if ($(window).width() > 767) {skrollr.init()}});
-
-
             
 

@@ -77,9 +77,6 @@ set :relative_links, true
 
 ignore "bower_components/*"
 
-ignore "javascripts/app.js"
-
-ignore "javascripts/script.js"
 
 # Build-specific configuration
 configure :build do
