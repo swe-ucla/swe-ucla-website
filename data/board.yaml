@@ -5,7 +5,8 @@
     major: Materials Science & Engineering
     interests: 
     loves:
-    contact: 
+    contact: mailto:president.swe.ucla@gmail.com
+    contact_for: Sponsorship 
 -   name: Renee Krieger
     image: "/images/exec/renee.JPG"
     position: Internal Vice President
@@ -13,7 +14,8 @@
     major: Materials Science & Engineering
     interests: 
     loves:
-    contact: 
+    contact: mailto:ivp.swe.ucla@gmail.com
+    contact_for: Internal relations and our major committee
 -   name: Gabby Pollack
     image: "/images/exec/gabby.JPG"
     position: External Vice President
@@ -21,7 +23,8 @@
     major: Mechanical Engineering
     interests: 
     loves:
-    contact: 
+    contact: mailto:evp.swe.ucla@gmail.com
+    contact_for: External relations
 -   name: Ramya Satish
     image: "/images/exec/ramya.JPG"
     position: Secretary
@@ -29,7 +32,8 @@
     major: Computer Science
     interests: 
     loves:
-    contact: 
+    contact: mailto:secretary.swe.ucla@gmail.com
+    contact_for: The SWE newsletter
 -   name: Diane Jung
     image: "/images/exec/diane.JPG"
     position: Treasurer
@@ -37,7 +41,8 @@
     major: Chemical Engineering
     interests: 
     loves:
-    contact:
+    contact: mailto:treasurer.swe.ucla@gmail.com
+    contact_for: Sponsorship
 -   name: Sarah Bazargan
     image: "/images/exec/sarah.JPG"
     position: EWI External Co-Chair
@@ -45,7 +50,8 @@
     major: Bioengineering
     interests: 
     loves:
-    contact:
+    contact: mailto:ewi.swe.ucla@gmail.com
+    contact_for: Evening with Industry
 -   name: Rachel Ehrlich
     image: "/images/exec/rachele.JPG"
     position: EWI Internal Co-Chair
@@ -53,7 +59,8 @@
     major: Chemical Engineering
     interests: 
     loves:
-    contact:
+    contact: mailto:ewi.swe.ucla@gmail.com
+    contact_for: Evening with Industry
 -   name: Sohni Thakkar
     image: "/images/exec/sohni.JPG"
     position: Publicity Director
@@ -61,7 +68,8 @@
     major: Mechanical Engineering
     interests: 
     loves:
-        contact:
+    contact: mailto:publicity.swe.ucla@gmail.com
+    contact_for: Publicizing events via our social media accounts and flyers
 -   name: Erin Nishimura
     image: "/images/exec/erin.JPG"
     position: Advocacy Director
@@ -69,7 +77,8 @@
     major: Materials Science
     interests: 
     loves:
-    contact:
+    contact: mailto:advocacy.swe.ucla@gmail.com
+    contact_for: Advocacy committee
 -   name: Kristen Biermayer
     image: "/images/exec/kristen.JPG"
     position: Mentorship Director
@@ -77,7 +86,8 @@
     major: Mechanical Engineering
     interests: 
     loves:
-    contact:
+    contact: mailto:mentorship.swe.ucla@gmail.com
+    contact_for: Mentorship opportunities
 -   name: Shivali Gowda
     image: "/images/exec/shivali.JPG"
     position: Outreach Director
@@ -85,7 +95,8 @@
     major: Chemical Engineering
     interests: 
     loves:
-    contact:
+    contact: mailto:outreach.swe.ucla@gmail.com
+    contact_for: Outreach committee and outreach opportunities
 -   name: Sabrina Chiang
     image: "/images/exec/sabrina.JPG"
     position: Team Tech Director
@@ -93,7 +104,8 @@
     major: Computer Science
     interests: 
     loves:
-    contact:
+    contact: mailto:teamtech.swe.ucla@gmail.com
+    contact_for: Technical workshops and company tours
 -   name: Rachel Bax
     image: "/images/exec/rachelb.JPG"
     position: Historian
@@ -101,7 +113,17 @@
     major: Mechanical Engineering
     interests: 
     loves:
-    contact:
+    contact: mailto:historian.swe.ucla@gmail.com
+    contact_for: The SWE Blog and event photos
+-   name: Farhana Haque
+    image: "/images/exec/farhana.JPG"
+    position: Historian
+    year: 3rd Year
+    major: Mechanical Engineering
+    interests: 
+    loves:
+    contact: mailto:studentrelations.swe.ucla@gmail.com
+    contact_for: General meetings and SWE Socials
 -   name: Breanna Nery
     image: "/images/exec/breanna.JPG"
     position: Webmaster
@@ -109,7 +131,8 @@
     major: Computer Science
     interests: 
     loves:
-    contact:
+    contact: mailto:webmaster.swe.ucla@gmail.com
+    contact_for: Publicity via our website and any issues/concerns with the website itself
 -   name: Kelly Connelly
     image: "/images/exec/kelly.jpg"
     position: Graduate Director
@@ -117,4 +140,5 @@
     major: Mechanical Engineering
     interests: 
     loves:
-    contact:
+    contact: mailto:graduate.swe.ucla@gmail.com
+    contact_for: GradSWE

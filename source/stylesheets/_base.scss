@@ -48,6 +48,9 @@ h2, h4 {
 h5 {
 	color: get-color('swe-orange');
 }
+h6 {
+  color: get-color('swe-purple');
+}
 
 .button {
 	background-color: get-color('swe-blue'); 
@@ -66,7 +69,9 @@ h5 {
 	float: right;
 }
 
-
+.center-text {
+  text-align: center;
+}
 // HEADER: 
 
 .splash {
@@ -159,6 +164,37 @@ span.tag {
   height: 800px;
   border-style: none;
 }
+
+// CONTACT CARD
+.contact-card {
+  padding: 1rem;
+  margin: 2rem 0;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  background-color: #fff;
+
+  .contact-card-img {
+    width:  150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px #888888;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    margin: 2rem auto;
+  }
+  .contact-info {
+    h4, h5, h6 {
+      margin-top: 0;
+      text-align: center;
+      text-transform: uppercase;
+    }
+    p {
+      text-align: center;
+      font-size: 1rem;
+    }
+  }
+}
+
 @media only screen and (min-width: 767px) { 
 	body {
 		font-size: 1.2rem;

@@ -1,0 +1,39 @@
+---
+title: Contact
+bgcolor: "#584A6A"
+bgimage: "/images/gear-overlay.png"
+splashtext: "<br> Contact Us"
+---
+
+.content-panel.center-text.row{"data-equalizer" => "",  "data-equalize-on" => "767px"}
+  .large-12.small-12.columns{"data-equalizer-watch" => ""}
+    %h1 General Contact
+    %a{:href => "https://www.facebook.com/uclaswe", :title => "Facebook"}
+      %i.fa.fa-facebook-square.fa-2x{"aria-hidden" => "true"}
+    %br
+    Message us via Facebook for any quick questions or comments!
+    
+    %br
+    
+    %a{:href => "mailto:swe@seas.ucla.edu", :title => "Email"}
+      %i.fa.fa-envelope.fa-2x{"aria-hidden" => "true"}
+    %br
+    You can also send out an email to #{link_to 'swe@seas.ucla.edu', 'swe@seas.ucla.edu'}
+
+.row{"data-equalizer" => ""}
+  - data.board.each_with_index do |e, index|
+    .large-4.end.columns
+      .contact-card{"data-equalizer-watch" => ""}
+        .contact-card-img{:style => "background-image:url(#{e["image"]});"}
+        .contact-info
+          %h4 
+            = e["name"]
+          %h5 
+            = e["position"]
+          %h6
+            %a{:href => e["contact"], :title => "Email"}
+              %i.fa.fa-envelope.fa-2x{"aria-hidden" => "true"} 
+          %h6 
+            Contact Me For
+          %p
+            = e["contact_for"]
