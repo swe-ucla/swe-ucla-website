@@ -1,0 +1,39 @@
+---
+title: Sponsors
+bgcolor: "#584A6A"
+bgimage: "/images/gear-overlay.png"
+splashtext: "<br> Sponsors"
+---
+.row
+  .sponsor.diamond
+    %h1 Diamond
+    .sponsor-image
+      - data.sponsors.diamond.each do |e|
+        %img{:src => e}
+.row
+  .sponsor.platinum
+    %h1 Platinum
+    .sponsor-image
+      - data.sponsors.platinum.each do |e|
+        %img{:src => e}
+.row
+  .sponsor.gold
+    %h1 Gold
+    .sponsor-image
+      - data.sponsors.gold.each do |e|
+        %img{:src => e}
+.row
+  .sponsor.silver
+    %h1 Silver
+    .sponsor-image
+      - data.sponsors.silver.each do |e|
+        %img{:src => e}
+.row
+  .sponsor.bronze
+    %h1 Bronze
+    .sponsor-image
+      - data.sponsors.bronze.each do |e|
+        %img{:src => e}
+
+
+  

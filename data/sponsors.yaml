@@ -1,0 +1,13 @@
+diamond:
+  - "/images/sponsor_logos/phillips-66-logo.jpg"
+platinum:
+  - "/images/sponsor_logos/arconic.jpg"
+gold:
+  - "/images/sponsor_logos/walt.png"
+  - "/images/sponsor_logos/adobe.png"
+silver:
+  - "/images/sponsor_logos/deloitte.png"
+  - "/images/sponsor_logos/kaiser.png"
+bronze:
+  - "/images/sponsor_logos/aera.png"
+  - "/images/sponsor_logos/zynga.png"

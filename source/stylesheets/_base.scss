@@ -195,6 +195,36 @@ span.tag {
   }
 }
 
+// SPONSORS
+.sponsor {
+  text-align: center;
+  padding: 2rem;
+  
+  .sponsor-image {
+    display: inline-block;
+    img {
+      padding: 0.5rem;
+      max-height: 200px;
+      max-width: 200px;
+    }
+  }
+}
+.diamond {
+    h1 { color: #00b3dc}
+  }
+.platinum {
+  h1 { color: #3c3a36}
+}
+.gold {
+  h1 { color: #d9b950}
+}
+.silver {
+  h1 { color: #c0c0c0}
+}
+.bronze {
+  h1 { color: #cd7f32}
+}
+
 @media only screen and (min-width: 767px) { 
 	body {
 		font-size: 1.2rem;
