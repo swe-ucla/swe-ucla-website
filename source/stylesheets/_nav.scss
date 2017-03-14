@@ -23,6 +23,7 @@ $link: #5b5478;
   top: 10px;
 }
 
+
 // MEDIUM-UP NAVIGATION
 @media only screen and (min-width: 40rem) { 
 
@@ -71,6 +72,7 @@ $link: #5b5478;
   			ul 
   			{
   				background-color: $nav-background;
+          list-style: none;
   			}
 
   			// Remove submenu border
@@ -82,7 +84,7 @@ $link: #5b5478;
   			/* DROP DOWN */
 		    li 
 		    {
-
+          list-style: none;
 		    	a:hover
 		    	{
 		    		background: $dropdown-background;
@@ -104,6 +106,7 @@ $link: #5b5478;
 		    			background: $dropdown-background;
 		    			color: #fff;
 		    		}
+            list-style: none;
 		    	}
     		}
 		}
