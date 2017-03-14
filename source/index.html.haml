@@ -29,11 +29,12 @@ splashtext: "Aspire. <br> Advance. <br> Achieve."
                             = a["description"]
    
 .row.margin-bottom-m
-    .large-6.columns.events
+    .large-6.columns
         %h1.bold Upcoming Events
         %br
-        %h2 WEEK 0
-        %ul
+        %h2 WEEK 10
+        %ul.events
+        - if data.events.size != 0
             - data.events.each do |e|
                 %li 
                     = e["description"]
@@ -43,9 +44,11 @@ splashtext: "Aspire. <br> Advance. <br> Achieve."
                     - if e["link"]
                         %a{:href => e["link"], :title => "RSVP", "aria-hidden" => "true"} 
                             %i.fa.fa-link{"aria-hidden" => "true"}
+        - else
+            %p No SWE events this week!
         %p
             Check out our 
-            %a{:href => "/"} calendar 
+            %a{:href => "/events/calendar"} calendar 
             for more upcoming events!
     .large-6.columns
         %h1.bold Join our mailing list!
