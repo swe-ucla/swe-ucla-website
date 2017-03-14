@@ -144,17 +144,17 @@ span.tag {
 	font-family: 'Montserrat', sans-serif;
 }
 
-.events ul, .events li {
+.week-events ul, .week-events li {
 	position: relative;
 	padding: 0;
   margin: 0;
   list-style: none;
 }
 
-.events ul {
+.week-events ul {
 	padding:1em;
 }
-.events li:before {
+.week-events li:before {
   content: '\f013';
   font-family: 'FontAwesome';
   float: left;
