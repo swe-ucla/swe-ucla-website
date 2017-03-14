@@ -3,46 +3,51 @@
     position: President
     year: 4th Year
     major: Materials Science & Engineering
-    interests: 
-    loves:
+    interests: Professionally, I want to enter the renewable energy sector, specifically solar energy. In my spare time, I am a "culture vulture" who loves film, television, dance, and theater. 
+    loves: SWE has empowered me to defend diversity in a multitude of situations whether it be in a classroom or a social gathering. By discussing these pressing topics with like-minded students, I have gained confidence in public speaking and leadership. I credit SWE with my development into the leader I am today. 
     contact: mailto:president.swe.ucla@gmail.com
-    contact_for: Sponsorship 
+    contact_for: General questions about SWE (e.g. our mission and goals, areas of involvement, partnerships). For company representatives, please contact me regarding general sponsorship inquiries.
+
 -   name: Renee Krieger
     image: "/images/exec/renee.JPG"
     position: Internal Vice President
     year: 4th Year
     major: Materials Science & Engineering
-    interests: 
-    loves:
+    interests: Art, origami, the beach
+    loves: SWE is where I've made friends and worked with some of the best women engineers and it's helped me to be ready to tackle the challenges of entering and participating in the professional world, both as an intern and hopefully soon as a full-time employee.
     contact: mailto:ivp.swe.ucla@gmail.com
-    contact_for: Internal relations and our major committee
+    contact_for: SWEetie Cards, Major Committee, inter-club collaborations
+
 -   name: Gabby Pollack
     image: "/images/exec/gabby.JPG"
     position: External Vice President
-    year: 4th Year
+    year: 3rd Year
     major: Mechanical Engineering
-    interests: 
-    loves:
+    interests: Playing and watching sports, anything outdoors or active, taco tuesdays, the beach, going out dancing with friends
+    loves: I like how flexible the organization is. You can get extremely involved nationally, or just stick with some UCLA events. You can benefit from tons of online SWE resources too like the online career center and free career coaching. Nationals is always a great experience and I love being able to connect with so many other women engineers, many times which lead to opportunities.
     contact: mailto:evp.swe.ucla@gmail.com
-    contact_for: External relations
+    contact_for: Anything that involves us going outside of UCLA for contacts or events. I work directly with many company representatives to plan infosessions or connect them to other board members who would like a company's presence or assistance at their events and programs.
+
 -   name: Ramya Satish
     image: "/images/exec/ramya.JPG"
     position: Secretary
     year: 2nd Year
     major: Computer Science
-    interests: 
-    loves:
+    interests: My interests include learning languages,  watching dramas, creating music playlists, browsing the web, playing badminton, and having thought-provoking discussions with people. In regards to computer science specifically, I am interested in artificial intelligence.
+    loves: I love how SWE is so diverse in the opportunities that it provides. From professional development to advocacy, SWE has events appealing to different individuals with a variety of interests. EWI committee helped me develop my networking skills last year through providing me the opportunity to speak with many recruiters and learn about many job opportunities in computer science. Now, as a board member, I have even more opportunities to network and grow professionally. 
     contact: mailto:secretary.swe.ucla@gmail.com
-    contact_for: The SWE newsletter
+    contact_for: Any questions regarding the newsletter or regarding membership!
+
 -   name: Diane Jung
     image: "/images/exec/diane.JPG"
     position: Treasurer
-    year: 2nd Year
+    year: 3nd Year
     major: Chemical Engineering
-    interests: 
-    loves:
+    interests: I love exploring various genres of music and sipping on coffee.
+    loves: SWE-UCLA provided (and continues to provide) me many opportunities to build relationships with fellow engineers and other STEM majoring students on campus and nationwide.
     contact: mailto:treasurer.swe.ucla@gmail.com
-    contact_for: Sponsorship
+    contact_for: Please feel free to contact me about any payments or sponsorship for SWE-UCLA.
+
 -   name: Sarah Bazargan
     image: "/images/exec/sarah.JPG"
     position: EWI External Co-Chair
@@ -52,42 +57,47 @@
     loves:
     contact: mailto:ewi.swe.ucla@gmail.com
     contact_for: Evening with Industry
+
 -   name: Rachel Ehrlich
     image: "/images/exec/rachele.JPG"
     position: EWI Internal Co-Chair
     year: 3rd Year
     major: Chemical Engineering
-    interests: 
-    loves:
+    interests: I like of think of myself as a relatively creative person. I have been playing the piano since I was four years old, and love to read and write. I am also obsessed with anything Harry Potter-related, so I'm always happy to talk about that!
+    loves: I joined SWE during the fall of my freshman year, and have loved every minute of it. The people are great, the opportunities are amazing, and it's just such a welcoming involvement. Going from being a committee member to being a board member has allowed me to grow so much, and I'm excited to spend the rest of my time in college with SWE as well.
     contact: mailto:ewi.swe.ucla@gmail.com
-    contact_for: Evening with Industry
+    contact_for: Contact me for any questions regarding the internal logistics of Evening with Industry.
+
 -   name: Sohni Thakkar
     image: "/images/exec/sohni.JPG"
     position: Publicity Director
     year: 2nd Year
     major: Mechanical Engineering
-    interests: 
-    loves:
+    interests: hiking, game of thrones, and weird tea (or coffee but coffee's not as good) mugs.
+    loves: I love that SWE is an organization where women can come together to learn from each other and to slowly change the gender dynamic in engineering. It's always nice to have people who understand your experience cheer you on and support you in what you hope to accomplish.
     contact: mailto:publicity.swe.ucla@gmail.com
-    contact_for: Publicizing events via our social media accounts and flyers
+    contact_for: Anything related to publicity on our various social media platforms, including Facebook, Instagram, and Twitter!
+
 -   name: Erin Nishimura
     image: "/images/exec/erin.JPG"
     position: Advocacy Director
     year: 3rd Year
     major: Materials Science
-    interests: 
-    loves:
+    interests: My engineering interests include smart materials and additive manufacturing, while my personal interests include Harry Potter, the musical Hamilton, and feminism.
+    loves: I love how many events we host to promote gender equality in STEM and I love how nice everyone in SWE is.
     contact: mailto:advocacy.swe.ucla@gmail.com
-    contact_for: Advocacy committee
+    contact_for: Suggestions for events to promote diversity in engineering, or anything related to the Engineers for Professional Equality Conference
+
 -   name: Kristen Biermayer
     image: "/images/exec/kristen.JPG"
     position: Mentorship Director
     year: 4th Year
     major: Mechanical Engineering
-    interests: 
-    loves:
+    interests: I love animals and am passionate about fostering animals as well as providing pet therapy to nursing home residents/hospice patients. I am also fond of nature, outdoor activities, and peanut butter.
+    loves: I love that SWE works to bring everyone in the engineering community together and encourages equality by providing professional development opportunities for everyone and anyone.
     contact: mailto:mentorship.swe.ucla@gmail.com
-    contact_for: Mentorship opportunities
+    contact_for: Contact me for anything related to the Industry Professional--Student Mentorship Program and other support/guidance opportunities!
+
 -   name: Shivali Gowda
     image: "/images/exec/shivali.JPG"
     position: Outreach Director
@@ -97,48 +107,63 @@
     loves:
     contact: mailto:outreach.swe.ucla@gmail.com
     contact_for: Outreach committee and outreach opportunities
+
 -   name: Sabrina Chiang
     image: "/images/exec/sabrina.JPG"
     position: Team Tech Director
     year: 4th Year
     major: Computer Science
-    interests: 
-    loves:
+    interests: I generally spend my free time browsing Tumblr or playing Tetris (more than willing to take on challengers!) I'm also an active member of the UCLA Wushu Club. Not sure what I want to be doing with my degree in CS after college, but I'd like to take time to go traveling!
+    loves: SWE has so many opportunities to get involved with the engineering community, and it's the main reason I've been able to connect with the engineering students I know. I only wish I had gotten more involved sooner!
     contact: mailto:teamtech.swe.ucla@gmail.com
-    contact_for: Technical workshops and company tours
+    contact_for: Any ideas/proposals for a technical workshop, or company tour! I'm glad to collaborate with other student organizations on campus as well as company representatives to make events happen.
+
 -   name: Rachel Bax
     image: "/images/exec/rachelb.JPG"
     position: Historian
     year: 3rd Year
     major: Mechanical Engineering
-    interests: 
-    loves:
+    interests: My interests are playing the piano, exploring LA with friends, listening and understanding people's life stories, and watching soccer premier league games. 
+    loves: It really supports and promotes a network to develop women engineers especially with soft skills and connecting students to the industry.  
     contact: mailto:historian.swe.ucla@gmail.com
-    contact_for: The SWE Blog and event photos
+    contact_for: Contact me for any issues and suggestions for SWE-UCLA posts in the SWE Region B Blog and photos from events.
+
 -   name: Farhana Haque
     image: "/images/exec/farhana.JPG"
-    position: Historian
+    position: Student Relations Director
     year: 3rd Year
     major: Mechanical Engineering
-    interests: 
-    loves:
+    interests: Riddles, visiting new places, food, running, badminton, outdoor adventures 
+    loves: My favorite aspect about SWE is how it really feels like a community. Though we all come from different majors, we all share a passion in whatever we do. SWE gives you the opportunity to meet other like-minded individuals and come together for a greater purpose to drive more women into engineering. 
     contact: mailto:studentrelations.swe.ucla@gmail.com
-    contact_for: General meetings and SWE Socials
+    contact_for: SWE's general meetings and SWE Socials. Also, questions about the club in general, how to get involved, and how to raise awareness about diversity in engineering
+
 -   name: Breanna Nery
     image: "/images/exec/breanna.JPG"
     position: Webmaster
     year: 3rd Year
     major: Computer Science
-    interests: 
-    loves:
+    interests: I'm into design, UI/UX, and of course coding. Currently a DJ @ UCLA Radio where I play hip-hop and plenty of Kanye. 
+    loves: SWE has provided me with a network of inspiring women in engineering. 
     contact: mailto:webmaster.swe.ucla@gmail.com
     contact_for: Publicity via our website and any issues/concerns with the website itself
+
 -   name: Kelly Connelly
     image: "/images/exec/kelly.jpg"
     position: Graduate Director
     year: PhD
     major: Mechanical Engineering
-    interests: 
-    loves:
+    interests: Baking, cooking, running
+    loves: I love being a part of a supportive network of amazing women!
     contact: mailto:graduate.swe.ucla@gmail.com
-    contact_for: GradSWE
+    contact_for: Questions about how to get involved with GradSWE
+
+-   name: Erin Askounis
+    image: "/images/exec/erinA.jpg"
+    position: Graduate Director
+    year: PhD
+    major: Materials Science and Engineering
+    interests: Hiking, Reading, Coffee 
+    loves: Meeting other women in engineering!
+    contact: mailto:graduate.swe.ucla@gmail.com
+    contact_for: The graduate chapter of SWE 
