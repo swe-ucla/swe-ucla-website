@@ -10,6 +10,9 @@ $swe-colors: (
 	'swe-purple': #584A6A,
 	'swe-orange': #E57D3C,
 	'swe-yellow': #dcc554,
+  'swe-pink': #E63F52,
+  'swe-teal': #63B0BB,
+  'swe-burgundy':  #9B4755,
 	'text': #332C2D
 );
 
@@ -223,6 +226,19 @@ span.tag {
 }
 .bronze {
   h1 { color: #cd7f32}
+}
+
+// Committee Photos
+.committee-photo{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.committee-photo-img {
+  height: 60%;
+  width: 60%;
+  padding: 1rem;
 }
 
 @media only screen and (min-width: 767px) { 
