@@ -1,13 +1,23 @@
 diamond:
   - "/images/sponsor_logos/phillips-66-logo.jpg"
+  - "/images/sponsor_logos/northropgrumman.jpg"
+  - "/images/sponsor_logos/airproducts.jpg"
+  - "/images/sponsor_logos/boeing.png"
+  - "/images/sponsor_logos/tesoro.png"
 platinum:
   - "/images/sponsor_logos/arconic.jpg"
+  - "/images/sponsor_logos/ibm.png"
+  - "/images/sponsor_logos/aecom.jpg"
+  - "/images/sponsor_logos/amgen.jpg"
+  - "/images/sponsor_logos/edison.png"
 gold:
-  - "/images/sponsor_logos/walt.png"
+  - "/images/sponsor_logos/zynga.png"
   - "/images/sponsor_logos/adobe.png"
 silver:
   - "/images/sponsor_logos/deloitte.png"
   - "/images/sponsor_logos/kaiser.png"
+  - "/images/sponsor_logos/walt.png"
 bronze:
   - "/images/sponsor_logos/aera.png"
-  - "/images/sponsor_logos/zynga.png"
+  - "/images/sponsor_logos/chevron.jpg"
+  

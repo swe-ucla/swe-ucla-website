@@ -32,20 +32,20 @@ splashtext: "Aspire. <br> Advance. <br> Achieve."
     .large-6.columns
         %h1.bold Upcoming Events
         %br
-        %h2 WEEK 10
+        %h2 WEEK 1
         %ul.week-events
-        - if data.events.size != 0
-            - data.events.each do |e|
-                %li 
-                    = e["description"]
-                    - if e["fb"]
-                        %a{:href => e["fb"], :title => "Facebook Event", "aria-hidden" => "true"} 
-                            %i.fa.fa-facebook-square{"aria-hidden" => "true"}
-                    - if e["link"]
-                        %a{:href => e["link"], :title => "RSVP", "aria-hidden" => "true"} 
-                            %i.fa.fa-link{"aria-hidden" => "true"}
-        - else
-            %p No SWE events this week!
+            - if data.events.size != 0
+                - data.events.each do |e|
+                    %li 
+                        = e["description"]
+                        - if e["fb"]
+                            %a{:href => e["fb"], :title => "Facebook Event", "aria-hidden" => "true"} 
+                                %i.fa.fa-facebook-square{"aria-hidden" => "true"}
+                        - if e["link"]
+                            %a{:href => e["link"], :title => "RSVP", "aria-hidden" => "true"} 
+                                %i.fa.fa-link{"aria-hidden" => "true"}
+            - else
+                %p No SWE events this week!
         %p
             Check out our 
             %a{:href => "/events/calendar"} calendar 
@@ -53,5 +53,5 @@ splashtext: "Aspire. <br> Advance. <br> Achieve."
     .large-6.columns
         %h1.bold Join our mailing list!
         %p
-            Never miss out on a SWE event or job/internship opportunities! If you missed it, check out all our old ones here. #{link_to 'here', 'http://us11.campaign-archive2.com/home/?u=577d9373840e4ffe2e76d32e1&id=e94638c22e'}. 
+            Never miss out on a SWE event or job/internship opportunities! If you missed it, check out all our old ones #{link_to 'here', 'http://us11.campaign-archive2.com/home/?u=577d9373840e4ffe2e76d32e1&id=e94638c22e'}. 
         = partial "mailchimp"
