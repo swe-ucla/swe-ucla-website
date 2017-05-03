@@ -1,6 +1,7 @@
-- description: Spring General Meeting & Social   
-  fb:    
-  link:
-- description: EPEC
-  fb: https://www.facebook.com/events/1260796060623846/
-  link: https://www.eventbrite.com/e/engineers-for-professional-equality-conference-registration-32413899847
+# How events block is organized
+#- description:   
+#  fb:  <optional>  
+#  link: <optional>
+- description: SWE Banquet
+  fb:  'https://www.facebook.com/events/297053367401262/'  
+  link: 
