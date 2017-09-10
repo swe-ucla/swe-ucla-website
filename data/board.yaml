@@ -1,55 +1,55 @@
 -   name: Shivali Gowda
-    image: 
+    image: "../images/exec/shivali.JPG"
     position: President
-    year: 
-    major: 
+    year: 4th Year
+    major: Chemical Engineering
     interests: 
     loves: 
     contact: mailto:president.swe.ucla@gmail.com
     contact_for: General questions about SWE (e.g. our mission and goals, areas of involvement, partnerships). For company representatives, please contact me regarding general sponsorship inquiries.
 
 -   name: Rachel Ehrlich
-    image: 
+    image: "../images/exec/rachele.JPG"
     position: Internal Vice President
-    year: 
-    major: 
+    year: 4th Year
+    major: Chemical Engineering
     interests: 
     loves: 
     contact: mailto:ivp.swe.ucla@gmail.com
     contact_for: SWEetie Cards, Major Committee, inter-club collaborations
 
 -   name: Sarah Bazargan
-    image: 
+    image: "../images/exec/sarah.JPG"
     position: External Vice President
-    year: 
-    major: 
+    year: 4th Year
+    major: Bioengineering
     interests: 
     loves: 
     contact: mailto:evp.swe.ucla@gmail.com
     contact_for: Anything that involves us going outside of UCLA for contacts or events. I work directly with many company representatives to plan infosessions or connect them to other board members who would like a company's presence or assistance at their events and programs.
 
 -   name: Farhana Haque
-    image:
+    image: "../images/exec/farhana.JPG"
     position: Secretary
-    year: 
-    major: 
+    year: 3rd Year
+    major: Bioengineering
     interests: 
     loves: 
     contact: mailto:secretary.swe.ucla@gmail.com
     contact_for: Any questions regarding the newsletter or regarding membership!
 
 -   name: Diane Jung
-    image: 
+    image: "../images/exec/diane.JPG"
     position: Treasurer
-    year: 
-    major: 
+    year: 4th Year
+    major: Chemical Engineering
     interests: 
     loves: 
     contact: mailto:treasurer.swe.ucla@gmail.com
     contact_for: Please feel free to contact me about any payments or sponsorship for SWE-UCLA.
 
 -   name: Manas Kumar
-    image:
+    image: "../images/exec/avatar.png" 
     position: EWI External Co-Chair
     year: 
     major: 
@@ -59,17 +59,17 @@
     contact_for: Evening with Industry company inquiries and registrations. 
 
 -   name: Sohni Thakkar
-    image:
+    image: "../images/exec/sohni.JPG"
     position: EWI Internal Co-Chair
-    year: 
-    major: 
+    year: 3rd Year
+    major: Mechanical Engineering
     interests: 
     loves: 
     contact: mailto:ewi.swe.ucla@gmail.com
     contact_for: Contact me for any questions regarding the internal logistics of Evening with Industry.
 
 -   name: Jennifer Seki
-    image:
+    image: "../images/exec/avatar.png"
     position: Publicity Director
     year: 
     major: 
@@ -79,7 +79,7 @@
     contact_for: Anything related to publicity on our various social media platforms, including Facebook, Instagram, and Twitter!
 
 -   name: Ikaasa Suri
-    image:
+    image: "../images/exec/avatar.png"
     position: Advocacy Director
     year: 
     major: 
@@ -89,7 +89,7 @@
     contact_for: Suggestions for events to promote diversity in engineering, or anything related to the Engineers for Professional Equality Conference
 
 -   name: Michelle Tran
-    image:
+    image: "../images/exec/avatar.png"
     position: Mentorship Director
     year: 
     major: 
@@ -99,17 +99,17 @@
     contact_for: Anything related to the Industry Professional--Student Mentorship Program and other support/guidance opportunities!
 
 -   name: Madison Taylor Garrison
-    image:
+    image: "../images/exec/avatar.png"
     position: Outreach Director
     year: 
-    major: 
+    major: Chemical Engineering
     interests: 
     loves: 
     contact: mailto:outreach.swe.ucla@gmail.com
     contact_for: Any outreach events including visits to UCLA, or high school/middle school events happening in the LA area!
 
 -   name: Gabby Pollack
-    image:
+    image: "../images/exec/gabby.JPG"
     position: Recruitment & Alumni Relations
     year: 
     major: 
@@ -119,27 +119,27 @@
     contact_for: Events or opportunities for SWE-UCLA to collaborate with SWE alumni
 
 -   name: Ramya Satish
-    image:
+    image: "../images/exec/ramya.JPG"
     position: Team Tech Director
-    year: 
-    major: 
+    year: 3rd Year
+    major: Computer Science
     interests: 
     loves: 
     contact: mailto:teamtech.swe.ucla@gmail.com
     contact_for: Any ideas/proposals for a technical workshop, or company tour! I'm glad to collaborate with other student organizations on campus as well as company representatives to make events happen.
 
 -   name: Erin Nishimura
-    image:
+    image: "../images/exec/erin.JPG"
     position: Historian
-    year: 
-    major: 
+    year: 4th Year
+    major: Chemistry & Materials Science
     interests: 
     loves: 
     contact: mailto:historian.swe.ucla@gmail.com
     contact_for: Any issues and suggestions for SWE-UCLA posts in the SWE Region B Blog and photos from events.
 
 -   name: Swetha Akella
-    image:
+    image: "../images/exec/avatar.png"
     position: Student Relations Director
     year: 
     major: 
@@ -149,10 +149,10 @@
     contact_for: SWE's general meetings and SWE Socials. Also, questions about the club in general, how to get involved, and how to raise awareness about diversity in engineering
 
 -   name: Sabrina Chiang
-    image:
+    image: "../images/exec/sabrina.JPG"
     position: Webmaster
-    year: 
-    major: 
+    year: 4th Year
+    major: Computer Science
     interests: 
     loves: 
     contact: mailto:webmaster.swe.ucla@gmail.com
