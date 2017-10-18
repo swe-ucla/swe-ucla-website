@@ -3,25 +3,12 @@
 #    subtitle: <Event Date> | <Event Time> | <Event Location> OR custom subtitle
 #    description: ""
 
--   title: Google Infosession
+-   title: "<a href='https://www.facebook.com/events/1968923606717448'>Visa Infosession</a>"
     image: 
-    subtitle: Monday, October 2nd | 6PM - 8PM | Boelter Penthouse
-    description: "Google is looking to offer positions for students with interests in software. They will also be 
-    covering a range of technical roles that are not just limited to CS!"
-
--   title: Google Lunch & Learn - Resume Review
-    image: 
-    subtitle: Tuesday, October 3rd | 12PM - 2 PM | Tesla Room (53-125 Engineering IV)
-    description: "Want advice and practical suggestions for improving your resume? Join us for a complimentary lunch 
-    and resume review session that will cover topics from formatting, how to choose content, and techniques to 
-    highlight your skills. This will be an interactive session so please bring a copy of your resume."
-
--   title: Northrup Grumman Mentorship Dinner
-    image: 
-    subtitle: Tuesday, October 3rd | 6PM - 8PM | Boelter Penthouse
-    description: "Curious about how to ace an interview or about proper workplace etiquette once you get the job? 
-    Interested in networking and mentorship opportunities? If so, come join SWE and Northrop Grumman mentors at our 
-    annual mentorship event to get all of your questions answered! Food will be provided."
+    subtitle: Wednesday, October 18th | 6PM - 8PM | Boelter 6764
+    description: "VISA will be coming to campus on Wednesday, October 18th to talk about the company 
+    and the positions they are hiring for. Join us for an evening with VISA while enjoying some free food! 
+    <a href='http://tinyurl.com/ya73eb2x'>Make sure to RSVP here!</a>"
 
 -   title: Scholarship Resources via <a href='http://www.affordablecolleges.com/resources/scholarships-for-women/'>AffordableColleges.com</a>
     image: 
