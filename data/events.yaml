@@ -3,10 +3,14 @@
 #   fb:  <optional>  
 #   link: <optional>
 
-- description: WOW! That's Engineering Day 2018
-  fb:  https://www.facebook.com/events/358183567982279/
+- description: Finals Study Space
+  fb:  https://www.facebook.com/events/2014060518623275/
   link:
   
-- description: Mental Health Awareness Week
-  fb: https://www.facebook.com/events/188439481755072/
-  link:
+- description: SWE Officer Elections - Call for Candidates
+  fb: https://www.facebook.com/events/929993260508971/
+  link: https://tinyurl.com/SWE-UCLA-Officer-Application
+
+- description: WESP - Women in Engineering Stayover Program
+  fb: https://www.facebook.com/events/389786131444989/
+  link: http://www.seas.ucla.edu/swe/events/stayover/
