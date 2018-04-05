@@ -1,23 +1,26 @@
 diamond:
-  - "/images/sponsor_logos/phillips-66-logo.jpg"
   - "/images/sponsor_logos/northropgrumman.jpg"
   - "/images/sponsor_logos/airproducts.jpg"
+platinum:
   - "/images/sponsor_logos/boeing.png"
   - "/images/sponsor_logos/tesoro.png"
-platinum:
-  - "/images/sponsor_logos/arconic.jpg"
-  - "/images/sponsor_logos/ibm.png"
-  - "/images/sponsor_logos/aecom.jpg"
-  - "/images/sponsor_logos/amgen.jpg"
+  - "/images/sponsor_logos/phillips-66-logo.jpg"
   - "/images/sponsor_logos/edison.png"
+  - "/images/sponsor_logos/accenture.png"
+  - "/images/sponsor_logos/aerospacecorp.png"
+  - "/images/sponsor_logos/google.jpg"
+  - "/images/sponsor_logos/l3communications.png"
+  - "/images/sponsor_logos/raytheon.png"
+  - "/images/sponsor_logos/visa.png"
+  - "/images/sponsor_logos/westerndigital.png"
 gold:
-  - "/images/sponsor_logos/zynga.png"
-  - "/images/sponsor_logos/adobe.png"
+  -
 silver:
-  - "/images/sponsor_logos/deloitte.png"
-  - "/images/sponsor_logos/kaiser.png"
-  - "/images/sponsor_logos/walt.png"
+  - "/images/sponsor_logos/adobe.png"
+  - "/images/sponsor_logos/generalatomics.jpg"
+  - "/images/sponsor_logos/intel.png"
 bronze:
-  - "/images/sponsor_logos/aera.png"
+  - "/images/sponsor_logos/illumina.png"
   - "/images/sponsor_logos/chevron.jpg"
+  - "/images/sponsor_logos/medtronic.jpg"
   

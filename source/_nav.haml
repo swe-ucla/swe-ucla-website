@@ -1,6 +1,6 @@
 // Small Navigation
 .title-bar{"data-hide-for" => "medium", "data-responsive-toggle" => "nav-menu"}
-    %a.logo-small.show-for-small-only{:href => "http://www.seas.ucla.edu/swe/"}
+    %a.logo-small.show-for-small-only{:href => "/"}
         %img{:src => "/images/swe-logo-small.png"}/
     %button.menu-icon{"data-toggle" => "", :type => "button"}
     .title-bar-title Menu
@@ -10,7 +10,7 @@
     %nav#nav-menu.top-bar{"data-start" => "position: relative;", "data-top" => "position:fixed; top:0; left: 0;width: 100%; "}
         .logo-wrapper.hide-for-small-only
             .logo
-                %a{:href => "http://www.seas.ucla.edu/swe/"}
+                %a{:href => "/"}
                     %img{:src => "/images/swe-logo.png"}/
         .top-bar-left
             %ul.vertical.medium-horizontal.menu{"data-responsive-menu" => "drilldown medium-dropdown"}
@@ -18,11 +18,11 @@
                     %a{:href => "#"} About SWE-UCLA
                     %ul.submenu.menu.vertical.medium-vertical{"data-submenu" => ""}
                         %li
-                            %a{:href => "/swe/about/mission-statement"} Mission
+                            %a{:href => "/about/mission-statement"} Mission
                         %li
-                            %a{:href => "/swe/about/how-to-join"} How to Join
+                            %a{:href => "/about/how-to-join"} How to Join
                         %li
-                            %a{:href => "/swe/about/swe-board"} SWE Board 2017-2018
+                            %a{:href => "/about/swe-board"} SWE Board 2017-2018
                         %li
                             %a{:href => "http://societyofwomenengineers.swe.org/"} National SWE
                         %li
@@ -31,27 +31,27 @@
                     %a{:href => "#"} Committees
                     %ul.s.menu.vertical.medium-vertical{"data-submenu" => ""}
                         %li
-                            %a{:href => "/swe/committees/outreach"} Outreach
+                            %a{:href => "/committees/outreach"} Outreach
                         %li
-                            %a{:href => "/swe/committees/major"} Major
+                            %a{:href => "/committees/major"} Major
                         %li
-                            %a{:href => "/swe/committees/advocacy"} Advocacy
+                            %a{:href => "/committees/advocacy"} Advocacy
                         %li
-                            %a{:href => "/swe/committees/ewi"} EWI
+                            %a{:href => "/committees/ewi"} EWI
                         %li
-                            %a{:href => "/swe/committees/gradswe"} GradSWE
+                            %a{:href => "/committees/gradswe"} GradSWE
                 %li.has-submenu
                     %a{:href => "#"} Events
                     %ul.submenu.menu.vertical.medium-vertical{"data-submenu" => ""}
                         %li
-                            %a{:href => "/swe/events/calendar"} Calendar
+                            %a{:href => "/events/calendar"} Calendar
                         %li
-                            %a{:href => "/swe/events/ewi"} EWI
+                            %a{:href => "/events/ewi"} EWI
                         %li
-                            %a{:href => "/swe/events/stayover"} WESP
+                            %a{:href => "/events/stayover"} WESP
                         %li
-                            %a{:href => "/swe/events/epec"} EPEC
+                            %a{:href => "/events/epec"} EPEC
                 %li.has-submenu
-                    %a{:href => "/swe/contact"} Contact
+                    %a{:href => "/contact"} Contact
                 %li.has-submenu
-                    %a{:href => "/swe/sponsors"} Sponsors
+                    %a{:href => "/sponsors"} Sponsors
