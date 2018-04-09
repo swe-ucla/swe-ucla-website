@@ -3,14 +3,34 @@
 #   fb:  <optional>  
 #   link: <optional>
 
-- description: Finals Study Space
-  fb:  https://www.facebook.com/events/2014060518623275/
-  link:
-  
-- description: SWE Officer Elections - Call for Candidates
-  fb: https://www.facebook.com/events/929993260508971/
-  link: https://tinyurl.com/SWE-UCLA-Officer-Application
+- description: "#ILookLikeAnEngineer - SWE's Engineering Week Event"
+  fb: https://www.facebook.com/events/2065837167029637/
+  link: 
+
+- description: TI Microcontroller Workshop
+  fb: https://www.facebook.com/events/460102984420978/
+  link: 
+
+- description: Intro to Bots Workshop (ft. Microsoft Bot Framework)
+  fb: https://www.facebook.com/events/558956704491126/
+  link: 
 
 - description: WESP - Women in Engineering Stayover Program
   fb: https://www.facebook.com/events/389786131444989/
   link: http://www.seas.ucla.edu/swe/events/stayover/
+
+- description: Pro II Workshop
+  fb: https://www.facebook.com/events/483338662082097/
+  link: 
+
+- description: 3D Printing Workshop
+  fb: https://www.facebook.com/events/177571576227127/
+  link: 
+
+- description: Women in Engineering Mentorship Event
+  fb: https://www.facebook.com/events/1720455244701124/
+  link: 
+
+- description: Dinner With Professors
+  fb: https://www.facebook.com/events/148786062620884/
+  link: 
