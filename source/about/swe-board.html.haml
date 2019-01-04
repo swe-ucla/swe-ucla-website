@@ -1,8 +1,8 @@
 ---
-title: SWE Board 2017-2018
+title: SWE Board 2018-2019
 bgcolor: "#E57D3C"
 bgimage: "/images/gear-overlay.png"
-splashtext: "<br> SWE Board 2017-2018"
+splashtext: "<br> SWE Board 2018-2019"
 ---
 - data.board.each do |e|
 	.row
@@ -13,25 +13,23 @@ splashtext: "<br> SWE Board 2017-2018"
 						.profile-card-img{:style => "background-image:url(#{e["image"]});"}
 					.medium-8.columns{"data-equalizer-watch" => ""}
 						.profile-info
-							%h2 
+							%h2
 								= e["position"]
 							%h3
 								= e["name"]
-							%p  
-								%span.tag 
+							%p
+								%span.tag
 									Year:
 								= e["year"]
 							%p
-								%span.tag 
+								%span.tag
 									Major:
 								= e["major"]
 							// %p
-							// 	%span.tag 
-							// 		Interests: 
+							// 	%span.tag
+							// 		Interests:
 							// 	= e["interests"]
 							// %p
-							// 	%span.tag 
+							// 	%span.tag
 							// 		What I Love About SWE:
 							// 	= e["loves"]
-
-

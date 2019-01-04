@@ -1,16 +1,12 @@
 # How events block is organized
-#- description:   
-#   fb:  <optional>  
+#- description:
+#   fb:  <optional>
 #   link: <optional>
 
-- description: Dinner With Professors
-  fb: https://www.facebook.com/events/148786062620884/
-  link: 
-
-- description: 46th Annual SWE UCLA Banquet
-  fb: https://www.facebook.com/events/725398347848842/
+- description: Enormous Activities Fair
+  fb:
   link:
 
-- description: Engineers for Professional Equality Conference
-  fb: https://www.facebook.com/events/648260758880169/
-  link: https://goo.gl/forms/GRwwzZRV6c51hpVz2
+- description: Engineering Welcome Day
+  fb:
+  link:

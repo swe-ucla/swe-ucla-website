@@ -1,29 +1,46 @@
-#-   title: 
+#-   title:
 #    image: <optional>
 #    subtitle: <Event Date> | <Event Time> | <Event Location> OR custom subtitle
 #    description: ""
 
--   title: <a href='https://goo.gl/forms/FUXId3TwQ6BQLBia2'>Advocacy Committee Interview Series</a>
-    image: 
-    subtitle: 
-    description: "Interested in participating in the Advocacy Committee's newest initiative? Perhaps you'd like to 
-    show off some of the cool research you've recently gotten involved in or talk about what else you do outside the 
-    classroom? Join us in the Member Interview Series where we speak with you one-on-one about you and your experiences 
-    at UCLA! Interested in being interviewed? <a href='https://goo.gl/forms/FUXId3TwQ6BQLBia2'>Apply here!</a>"
+# -   title: <a href='https://goo.gl/forms/FUXId3TwQ6BQLBia2'>Advocacy Committee Interview Series</a>
+#     image:
+#     subtitle:
+#     description: "Interested in participating in the Advocacy Committee's newest initiative? Perhaps you'd like to
+#     show off some of the cool research you've recently gotten involved in or talk about what else you do outside the
+#     classroom? Join us in the Member Interview Series where we speak with you one-on-one about you and your experiences
+#     at UCLA! Interested in being interviewed? <a href='https://goo.gl/forms/FUXId3TwQ6BQLBia2'>Apply here!</a>"
+#
+# -   title: Scholarship Resources via <a href='http://www.affordablecolleges.com/resources/scholarships-for-women/'>AffordableColleges.com</a>
+#     image:
+#     subtitle: Check out <a href='http://www.affordablecolleges.com/resources/scholarships-for-women/'>this link</a> for scholarship opportunities!
+#     description: "
+#     Dr. Marlene Kanga — the President-Elect of the World Federation of Engineering Organizations
+#     — recently discussed the lack of equal representation for women in engineering in the United States at a
+#     UN Commission in March.
+#     <br />
+#     However, the Society of Women Engineers has helped make huge strides by continually working to balance out
+#     the field, and to contribute, AffordableColleges.com has created a resource that is a collection of
+#     scholarships specifically for women — including a dedicated section of scholarships for women in STEM.
+#     <br />
+#     Find resources for scholarships, including special varieties such as scholarships for minority women,
+#     scholarships for female veterans, and references to STEM grants
+#     <a href='http://www.affordablecolleges.com/resources/scholarships-for-women/'>here</a>.
+#     "
+-   title: Enormous Activities Fair
+    image:
+    subtitle: September 25 | 11am-3pm | Royce Quad
+    description: "Come out to the Enormous Activities Fair to learn more about SWE and how to get involved during
+    the school year!"
 
--   title: Scholarship Resources via <a href='http://www.affordablecolleges.com/resources/scholarships-for-women/'>AffordableColleges.com</a>
-    image: 
-    subtitle: Check out <a href='http://www.affordablecolleges.com/resources/scholarships-for-women/'>this link</a> for scholarship opportunities!
-    description: "
-    Dr. Marlene Kanga — the President-Elect of the World Federation of Engineering Organizations
-    — recently discussed the lack of equal representation for women in engineering in the United States at a 
-    UN Commission in March.
-    <br />
-    However, the Society of Women Engineers has helped make huge strides by continually working to balance out 
-    the field, and to contribute, AffordableColleges.com has created a resource that is a collection of 
-    scholarships specifically for women — including a dedicated section of scholarships for women in STEM.
-    <br />
-    Find resources for scholarships, including special varieties such as scholarships for minority women, 
-    scholarships for female veterans, and references to STEM grants 
-    <a href='http://www.affordablecolleges.com/resources/scholarships-for-women/'>here</a>.
-    "
+-   title: Engineering Welcome Day
+    image:
+    subtitle: September 26 | 10am-1pm | Ackerman Grand Ballroom
+    description: "In case you missed us at the Enormous Activities Fair, we'll be at the Engineering Welcome Day as well.
+    Come say hi and learn more about what SWE does!"
+
+-   title: Fall General Meeting (GM)
+    image:
+    subtitle: October 4 | 6-8pm | Young CS50
+    description: "Join us at our first meeting of the year! Hear about upcoming events, how to join committees, and stay an involved
+    member with SWE. Food is provided and the company is always great! :)"
