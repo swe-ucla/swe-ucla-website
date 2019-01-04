@@ -16,12 +16,12 @@ splashtext: "<br> Sponsors"
     .sponsor-image
       - data.sponsors.platinum.each do |e|
         %img{:src => e}
-/ .row
-/   .sponsor.gold
-/     %h1 Gold
-/     .sponsor-image
-/       - data.sponsors.gold.each do |e|
-/         %img{:src => e}
+.row
+  .sponsor.gold
+    %h1 Gold
+    .sponsor-image
+      - data.sponsors.gold.each do |e|
+        %img{:src => e}
 .row
   .sponsor.silver
     %h1 Silver
@@ -36,10 +36,7 @@ splashtext: "<br> Sponsors"
         %img{:src => e}
 .row
   .center-text
-    %h2 
-      Interested in sponsorship with SWE-UCLA? 
+    %h2
+      Interested in sponsorship with SWE-UCLA?
     %h3
       Read more information about getting involved with us #{link_to "here!", 'https://drive.google.com/file/d/1uuoeHrbmOQkMbamqPk98US7lNZRJksrA/view?usp=sharing'}
-
-
-  

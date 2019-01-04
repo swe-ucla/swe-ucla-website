@@ -4,9 +4,10 @@ diamond:
 platinum:
   - "/images/sponsor_logos2019/boeing.png"
   - "/images/sponsor_logos2019/chevron.png"
-  - "/images/sponsor_logos2019/fmglobal.jpg"
-  - "/images/sponsor_logos2019/symantec.png"
+  - "/images/sponsor_logos2019/fmglobal.png"
+  - "/images/sponsor_logos/edison.png"
   - "/images/sponsor_logos2019/accenture.png"
+  - "/images/sponsor_logos2019/symantec.png"
 gold:
   - "/images/sponsor_logos2019/honey.jpg"
 silver:
