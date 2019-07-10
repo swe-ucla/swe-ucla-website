@@ -98,21 +98,31 @@
     contact: mailto:mentorship.swe.ucla@gmail.com
     contact_for: Anything related to the Industry Professional--Student Mentorship Program and other support/guidance opportunities
 
--   name: Vicky Min
-    image: "/images/exec/vicky.png"
-    position: Outreach Director
-    year: 2nd Year
-    major: Computer Science
+-   name: Camryn Lopez
+    image: "/images/exec/camryn.JPG"
+    position: Logistics Outreach Director
+    year: 3rd Year
+    major: Civil Engineering
     interests:
     loves:
     contact: mailto:outreach.swe.ucla@gmail.com
     contact_for: Any outreach events including visits to UCLA, or high school/middle school events happening in the LA area!
 
+-   name: Simran Parkhe
+    image: "/images/exec/simran.JPG"
+    position: External Outreach Director
+    year: 2nd Year
+    major: Computer Science & Engineering
+    interests:
+    loves:
+    contact: mailto:outreach.swe.ucla@gmail.com
+    conact_for: Sponsorships/collaborations for any Outreach events in the LA area!
+
 -   name: Hannah Connelly
     image: "/images/exec/hannah.JPG"
     position: Recruitment & Alumni Relations
     year: 3rd Year
-    major: Mechanical Engineering
+    major: Applied Mathematics
     interests:
     loves:
     contact: mailto:alumnirelations.swe.ucla@gmail.com
