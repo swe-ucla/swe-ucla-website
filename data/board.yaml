@@ -1,190 +1,179 @@
--   name: Ikaasa Suri
-    image: "/images/exec/ikaasa.png"
-    position: President
-    year: 4th Year
-    major: Computational & Systems Biology
-    interests:
-    loves:
-    contact: mailto:president.swe.ucla@gmail.com
-    contact_for: General questions about SWE (e.g. our mission and goals, areas of involvement, partnerships). For company representatives, please contact me regarding general sponsorship inquiries.
+- name: Isabel Ketner
+  image: "/swe_exec_photos/isabel.jpg"
+  position: President
+  year: 4th Year
+  major: Computer Engineering
+  interests:
+  loves:
+  contact: mailto:president.swe.ucla@gmail.com
+  contact_for: General questions about SWE (e.g. our mission and goals, areas of involvement, partnerships). For company representatives, please contact me regarding general sponsorship inquiries.
 
--   name: Madison Taylor Garrison
-    image: "/images/exec/taylor.png"
-    position: Internal Vice President
-    year: 4th Year
-    major: Chemical Engineering
-    interests:
-    loves:
-    contact: mailto:ivp.swe.ucla@gmail.com
-    contact_for: SWEetie Cards, Major Committee, inter-club collaborations
+- name: Sharvani Jha
+  image: "/swe_exec_photos/sharvani.jpeg"
+  position: External Vice President
+  year: 4th Year
+  major: Computer Science
+  interests:
+  loves:
+  contact: mailto:evp.swe.ucla@gmail.com
+  contact_for: Contacts and/or events off campus, company infosessions, company assistance or presence at events.
 
--   name: Kristi Richter
-    image: "/images/exec/kristi.png"
-    position: External Vice President
-    year: 4th Year
-    major: Computer Science & Engineering
-    interests:
-    loves:
-    contact: mailto:evp.swe.ucla@gmail.com
-    contact_for: Anything that involves us going outside of UCLA for contacts or events. I work directly with many company representatives to plan infosessions or connect them to other board members who would like a company's presence or assistance at their events and programs.
+- name: Maddy Westergaard
+  image: "/swe_exec_photos/maddy.jpeg"
+  position: Internal Vice President
+  year: 4th Year
+  major: Computer Science
+  interests:
+  loves:
+  contact: mailto:ivp.swe.ucla@gmail.com
+  contact_for: Inter-club collaborations, engineering club networking, SOLE regulations, internal affairs and events.
 
--   name: Kelly Nguyen
-    image: "/images/exec/kellyn.jpg"
-    position: Secretary
-    year: 2nd Year
-    major: Mechanical Engineering
-    interests:
-    loves:
-    contact: mailto:secretary.swe.ucla@gmail.com
-    contact_for: Any questions regarding the newsletter or regarding membership!
+- name: Simran Parkhe
+  image: "/swe_exec_photos/simran.jpg"
+  position: Internal Vice President
+  year: 3rd Year
+  major: Computer Engineering
+  interests:
+  loves:
+  contact: mailto:ivp.swe.ucla@gmail.com
+  contact_for: Inter-club collaborations, engineering club networking, SOLE regulations, internal affairs and events.
 
--   name: Annie Zhao
-    image: "/images/exec/annie.jpg"
-    position: Treasurer
-    year: 2nd Year
-    major: Materials Science & Engineering
-    interests:
-    loves:
-    contact: mailto:treasurer.swe.ucla@gmail.com
-    contact_for: Please feel free to contact me about any payments or sponsorship for SWE-UCLA.
+- name: Spurthi Rallipalli
+  image: "/swe_exec_photos/spurthi.jpeg"
+  position: Advocacy Director
+  year: 3rd Year
+  major: Computer Science
+  interests:
+  loves:
+  contact: mailto:advocacy.swe.ucla@gmail.com
+  contact_for: Suggestions for events to promote diversity in engineering, Mental Health Awareness Week, Empower Week, Engineers for Professional Inclusion Conference
 
--   name: Erica Vellanoweth
-    image: "/images/exec/erica.jpg"
-    position: EWI External Co-Chair
-    year: 3rd Year
-    major: Computer Science
-    interests:
-    loves:
-    contact: mailto:ewi.swe.ucla@gmail.com
-    contact_for: Evening with Industry company inquiries and registrations.
+- name: Allison Chen
+  image: "/swe_exec_photos/allison.jpg"
+  position: EWI External Co-Chair
+  year: 3rd Year
+  major: Computer Science
+  interests:
+  loves:
+  contact: mailto:ewi.swe.ucla@gmail.com
+  contact_for: Company inquiries and registrations for Evening with Industry (EWI).
 
--   name: Rithika Srinivasan
-    image: "/images/exec/rithika.jpg"
-    position: EWI Internal Co-Chair
-    year: 2nd Year
-    major: Computer Science
-    interests:
-    loves:
-    contact: mailto:ewi.swe.ucla@gmail.com
-    contact_for: Contact me for any questions regarding the internal logistics of Evening with Industry.
+- name: Annie Zhao
+  image: "/swe_exec_photos/annie.jpeg"
+  position: EWI Internal Co-Chair
+  year: 3rd Year
+  major: Materials Science & Engineering
+  interests:
+  loves:
+  contact: mailto:ewi.swe.ucla@gmail.com
+  contact_for: Internal logistics for Evening with Industry (EWI).
 
--   name: Sharvani Jha
-    image: "/images/exec/sharvani.jpg"
-    position: Publicity Director
-    year: 3rd Year
-    major: Computer Science
-    interests:
-    loves:
-    contact: mailto:publicity.swe.ucla@gmail.com
-    contact_for: Anything related to publicity on our various social media platforms, including Facebook, Instagram, and Twitter!
+- name: Kelly Cheng
+  image: "/swe_exec_photos/kelly_c.jpeg"
+  position: Historian
+  year: 4th Year
+  major: Computer Science & Engineering
+  interests:
+  loves:
+  contact: mailto:historian.swe.ucla@gmail.com
+  contact_for: SWE-UCLA posts in the SWE Region B Blog, photos from events.
 
--   name: Maddy Westergaard
-    image: "/images/exec/maddyw.png"
-    position: Advocacy Director
-    year: 3rd Year
-    major: Computer Science
-    interests:
-    loves:
-    contact: mailto:advocacy.swe.ucla@gmail.com
-    contact_for: Suggestions for events to promote diversity in engineering, or anything related to the Engineers for Professional Equality Conference
+- name: Christine Yang
+  image: "/swe_exec_photos/christine.jpg"
+  position: Outreach External Director
+  year: 2nd Year
+  major: Mechanical Engineering
+  interests:
+  loves:
+  contact: mailto:outreach.swe.ucla@gmail.com
+  contact_for: Sponsorships and collaborations for outreach events in the LA area.
 
--   name: Eunice Kan
-    image: "/images/exec/eunice.jpg"
-    position: Mentorship Director
-    year: 3rd Year
-    major: Mechanical Engineering
-    interests:
-    loves:
-    contact: mailto:mentorship.swe.ucla@gmail.com
-    contact_for: Anything related to the Industry Professional--Student Mentorship Program and other support/guidance opportunities
+- name: Hannah Wang
+  image: "/swe_exec_photos/hannah.jpg"
+  position: Outreach Logistics Director
+  year: 2nd Year
+  major: Materials Science & Engineering
+  interests:
+  loves:
+  contact: mailto:outreach.swe.ucla@gmail.com
+  conact_for: Outreach events, including visits to UCLA, or high school/middle school events, happening in the LA area.
 
--   name: Camryn Lopez
-    image: "/images/exec/camryn.jpg"
-    position: Logistics Outreach Director
-    year: 3rd Year
-    major: Civil Engineering
-    interests:
-    loves:
-    contact: mailto:outreach.swe.ucla@gmail.com
-    contact_for: Any outreach events including visits to UCLA, or high school/middle school events happening in the LA area!
+- name: Jessica Chen
+  image: "/swe_exec_photos/jessica.jpeg"
+  position: Publicity Director
+  year: 3rd Year
+  major: Computational & Systems Biology
+  interests:
+  loves:
+  contact: mailto:publicity.swe.ucla@gmail.com
+  contact_for: Publicity on our various social media platforms, including Facebook, Instagram, and Twitter.
 
--   name: Simran Parkhe
-    image: "/images/exec/simran.jpg"
-    position: External Outreach Director
-    year: 2nd Year
-    major: Computer Science & Engineering
-    interests:
-    loves:
-    contact: mailto:outreach.swe.ucla@gmail.com
-    conact_for: Sponsorships/collaborations for any Outreach events in the LA area!
+- name: Morgan Kopekcy
+  image: "/swe_exec_photos/morgan.jpeg"
+  position: Mentorship Director
+  year: 2nd Year
+  major: Computer Science & Engineering
+  interests:
+  loves:
+  contact: mailto:mentorship.swe.ucla@gmail.com
+  contact_for: Suggestions for guidance and support opportunities, Summer Mentorship Program, Industry Professional x Student Mentorship Program.
 
--   name: Hannah Connelly
-    image: "/images/exec/hannah.jpg"
-    position: Recruitment & Alumni Relations
-    year: 3rd Year
-    major: Applied Mathematics
-    interests:
-    loves:
-    contact: mailto:alumnirelations.swe.ucla@gmail.com
-    contact_for: Events or opportunities for SWE-UCLA to collaborate with SWE alumni
+- name: Eunice Kan
+  image: "/swe_exec_photos/eunice.jpeg"
+  position: Recruitment & Alumni Relations Director
+  year: 4th Year
+  major: Mechanical Engineering
+  interests:
+  loves:
+  contact: mailto:alumnirelations.swe.ucla@gmail.com
+  contact_for: Events or opportunities to collaborate with alumni.
 
--   name: Isabel Ketner
-    image: "/images/exec/isabel.png"
-    position: Technical Director
-    year: 3rd Year
-    major: Computer Engineering
-    interests:
-    loves:
-    contact: mailto:teamtech.swe.ucla@gmail.com
-    contact_for: Any ideas/proposals for a technical workshop, or company tour! I'm glad to collaborate with other student organizations on campus as well as company representatives to make events happen.
+- name: Heidi Kwong
+  image: "/swe_exec_photos/heidi.jpeg"
+  position: Secretary
+  year: 3rd Year
+  major: Mechanical Engineering
+  interests:
+  loves:
+  contact: mailto:secretary.swe.ucla@gmail.com
+  contact_for: Questions regarding the newsletter or membership.
 
--   name: Allison Chen
-    image: "/images/exec/allison.jpg"
-    position: Student Relations Director
-    year: 2nd Year
-    major: Mechanical Engineering
-    interests:
-    loves:
-    contact: mailto:studentrelations.swe.ucla@gmail.com
-    contact_for: SWE's general meetings and SWE Socials. Also, questions about the club in general, how to get involved, and how to raise awareness about diversity in engineering
+- name: Jackie Sun
+  image: "/swe_exec_photos/jackie.JPG"
+  position: Student Relations Director
+  year: 3rd Year
+  major: Computational & Systems Biology
+  interests:
+  loves:
+  contact: mailto:studentrelations.swe.ucla@gmail.com
+  contact_for: SWE Families, general meetings, club fairs, socials.
 
--   name: Vicky Min
-    image: "/images/exec/vicky.png"
-    position: Webmaster
-    year: 4th Year
-    major: Linguistics and Computer Science
-    interests:
-    loves:
-    contact: mailto:webmaster.swe.ucla@gmail.com
-    contact_for: Publicity via our website and any issues/concerns with the website itself
+- name: Rithika Srinivasan
+  image: "/swe_exec_photos/rithika.jpg"
+  position: Technical Director
+  year: 3rd Year
+  major: Computer Science
+  interests:
+  loves:
+  contact: mailto:teamtech.swe.ucla@gmail.com
+  contact_for: Technical workshops, QWER Hacks.
 
--   name: Kelly Cheng
-    image: "/images/exec/kellyc.jpg"
-    position: Historian
-    year: 2nd Year
-    major: Computer Science
-    interests:
-    loves:
-    contact: mailto:historian.swe.ucla@gmail.com
-    contact_for: Any issues and suggestions for SWE-UCLA posts in the SWE Region B Blog and photos from events.
+- name: Kelly Nguyen
+  image: "/swe_exec_photos/kelly_n.jpeg"
+  position: Treasurer
+  year: 3rd Year
+  major: Mechanical Engineering
+  interests:
+  loves:
+  contact: mailto:treasurer.swe.ucla@gmail.com
+  contact_for: Financial accounts, sponsorship payments, purchase orders/reimbursements, expense reports.
 
-
-# -   name: Kelly Connelly
-#     image: "/images/exec/kelly.jpg"
-#     position: Graduate Director
-#     year: PhD
-#     major: Mechanical Engineering
-#     interests: Baking, cooking, running
-#     loves: I love being a part of a supportive network of amazing women!
-#     contact: mailto:graduate.swe.ucla@gmail.com
-#     contact_for: Questions about how to get involved with GradSWE
-#
-# -   name: Erin Askounis
-#     image: "/images/exec/erinA.jpg"
-#     position: Graduate Director
-#     year: PhD
-#     major: Materials Science and Engineering
-#     interests: Hiking, Reading, Coffee
-#     loves: Meeting other women in engineering!
-#     contact: mailto:graduate.swe.ucla@gmail.com
-#     contact_for: The graduate chapter of SWE
+- name: Christina Tong
+  image: "/swe_exec_photos/christina.jpg"
+  position: Webmaster
+  year: 2nd Year
+  major: Computer Engineering
+  interests:
+  loves:
+  contact: mailto:webmaster.swe.ucla@gmail.com
+  contact_for: Publicity via our website and issues/concerns with the website itself.
