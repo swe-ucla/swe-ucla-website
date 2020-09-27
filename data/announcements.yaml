@@ -29,18 +29,12 @@
 #     "
 -   title: Enormous Activities Fair
     image:
-    subtitle: September 25 | 11am-3pm | Royce Quad
-    description: "Come out to the Enormous Activities Fair to learn more about SWE and how to get involved during
+    subtitle: September 25 - 28 | All day | Instagram @UCLAEAF
+    description: "Check out the Enormous Activities Fair to learn more about SWE and how to get involved during
     the school year!"
-
--   title: Engineering Welcome Day
-    image:
-    subtitle: September 26 | 10am-1pm | Ackerman Grand Ballroom
-    description: "In case you missed us at the Enormous Activities Fair, we'll be at the Engineering Welcome Day as well.
-    Come say hi and learn more about what SWE does!"
 
 -   title: Fall General Meeting (GM)
     image:
-    subtitle: October 3 | 6-8pm | Young CS50
+    subtitle: October 8 | 6-8pm | Zoom Link TBD
     description: "Join us at our first meeting of the year! Hear about upcoming events, how to join committees, and stay an involved
-    member with SWE. Food is provided and the company is always great! :)"
+    member with SWE. :)"
