@@ -1,5 +1,5 @@
 - name: Isabel Ketner
-  image: "/swe_exec_photos/isabel.jpg"
+  image: "/images/exec/isabel.jpg"
   position: President
   year: 4th Year
   major: Computer Engineering
@@ -9,7 +9,7 @@
   contact_for: General questions about SWE (e.g. our mission and goals, areas of involvement, partnerships). For company representatives, please contact me regarding general sponsorship inquiries.
 
 - name: Sharvani Jha
-  image: "/swe_exec_photos/sharvani.jpeg"
+  image: "/images/exec/sharvani.jpeg"
   position: External Vice President
   year: 4th Year
   major: Computer Science
@@ -19,7 +19,7 @@
   contact_for: Contacts and/or events off campus, company infosessions, company assistance or presence at events.
 
 - name: Maddy Westergaard
-  image: "/swe_exec_photos/maddy.jpeg"
+  image: "/images/exec/maddy.jpeg"
   position: Internal Vice President
   year: 4th Year
   major: Computer Science
@@ -29,7 +29,7 @@
   contact_for: Inter-club collaborations, engineering club networking, SOLE regulations, internal affairs and events.
 
 - name: Simran Parkhe
-  image: "/swe_exec_photos/simran.jpg"
+  image: "/images/exec/simran.jpg"
   position: Internal Vice President
   year: 3rd Year
   major: Computer Engineering
@@ -39,7 +39,7 @@
   contact_for: Inter-club collaborations, engineering club networking, SOLE regulations, internal affairs and events.
 
 - name: Spurthi Rallipalli
-  image: "/swe_exec_photos/spurthi.jpeg"
+  image: "/images/exec/spurthi.jpeg"
   position: Advocacy Director
   year: 3rd Year
   major: Computer Science
@@ -49,7 +49,7 @@
   contact_for: Suggestions for events to promote diversity in engineering, Mental Health Awareness Week, Empower Week, Engineers for Professional Inclusion Conference
 
 - name: Allison Chen
-  image: "/swe_exec_photos/allison.jpg"
+  image: "/images/exec/allison.jpg"
   position: EWI External Co-Chair
   year: 3rd Year
   major: Computer Science
@@ -59,7 +59,7 @@
   contact_for: Company inquiries and registrations for Evening with Industry (EWI).
 
 - name: Annie Zhao
-  image: "/swe_exec_photos/annie.jpeg"
+  image: "/images/exec/annie.jpeg"
   position: EWI Internal Co-Chair
   year: 3rd Year
   major: Materials Science & Engineering
@@ -69,7 +69,7 @@
   contact_for: Internal logistics for Evening with Industry (EWI).
 
 - name: Kelly Cheng
-  image: "/swe_exec_photos/kelly_c.jpeg"
+  image: "/images/exec/kelly_c.jpeg"
   position: Historian
   year: 4th Year
   major: Computer Science & Engineering
@@ -79,7 +79,7 @@
   contact_for: SWE-UCLA posts in the SWE Region B Blog, photos from events.
 
 - name: Christine Yang
-  image: "/swe_exec_photos/christine.jpg"
+  image: "/images/exec/christine.jpg"
   position: Outreach External Director
   year: 2nd Year
   major: Mechanical Engineering
@@ -89,17 +89,17 @@
   contact_for: Sponsorships and collaborations for outreach events in the LA area.
 
 - name: Hannah Wang
-  image: "/swe_exec_photos/hannah.jpg"
+  image: "/images/exec/hannah.jpg"
   position: Outreach Logistics Director
   year: 2nd Year
   major: Materials Science & Engineering
   interests:
   loves:
   contact: mailto:outreach.swe.ucla@gmail.com
-  conact_for: Outreach events, including visits to UCLA, or high school/middle school events, happening in the LA area.
+  contact_for: Outreach events, including visits to UCLA, or high school/middle school events, happening in the LA area.
 
 - name: Jessica Chen
-  image: "/swe_exec_photos/jessica.jpeg"
+  image: "/images/exec/jessica.jpeg"
   position: Publicity Director
   year: 3rd Year
   major: Computational & Systems Biology
@@ -109,7 +109,7 @@
   contact_for: Publicity on our various social media platforms, including Facebook, Instagram, and Twitter.
 
 - name: Morgan Kopekcy
-  image: "/swe_exec_photos/morgan.jpeg"
+  image: "/images/exec/morgan.jpeg"
   position: Mentorship Director
   year: 2nd Year
   major: Computer Science & Engineering
@@ -119,7 +119,7 @@
   contact_for: Suggestions for guidance and support opportunities, Summer Mentorship Program, Industry Professional x Student Mentorship Program.
 
 - name: Eunice Kan
-  image: "/swe_exec_photos/eunice.jpeg"
+  image: "/images/exec/eunice.jpeg"
   position: Recruitment & Alumni Relations Director
   year: 4th Year
   major: Mechanical Engineering
@@ -129,7 +129,7 @@
   contact_for: Events or opportunities to collaborate with alumni.
 
 - name: Heidi Kwong
-  image: "/swe_exec_photos/heidi.jpeg"
+  image: "/images/exec/heidi.jpeg"
   position: Secretary
   year: 3rd Year
   major: Mechanical Engineering
@@ -139,7 +139,7 @@
   contact_for: Questions regarding the newsletter or membership.
 
 - name: Jackie Sun
-  image: "/swe_exec_photos/jackie.JPG"
+  image: "/images/exec/jackie.JPG"
   position: Student Relations Director
   year: 3rd Year
   major: Computational & Systems Biology
@@ -149,7 +149,7 @@
   contact_for: SWE Families, general meetings, club fairs, socials.
 
 - name: Rithika Srinivasan
-  image: "/swe_exec_photos/rithika.jpg"
+  image: "/images/exec/rithika.jpg"
   position: Technical Director
   year: 3rd Year
   major: Computer Science
@@ -159,7 +159,7 @@
   contact_for: Technical workshops, QWER Hacks.
 
 - name: Kelly Nguyen
-  image: "/swe_exec_photos/kelly_n.jpeg"
+  image: "/images/exec/kelly_n.jpeg"
   position: Treasurer
   year: 3rd Year
   major: Mechanical Engineering
@@ -169,7 +169,7 @@
   contact_for: Financial accounts, sponsorship payments, purchase orders/reimbursements, expense reports.
 
 - name: Christina Tong
-  image: "/swe_exec_photos/christina.jpg"
+  image: "/images/exec/christina.jpg"
   position: Webmaster
   year: 2nd Year
   major: Computer Engineering
