@@ -27,14 +27,15 @@
 #     scholarships for female veterans, and references to STEM grants
 #     <a href='http://www.affordablecolleges.com/resources/scholarships-for-women/'>here</a>.
 #     "
--   title: Enormous Activities Fair
-    image:
-    subtitle: September 25 - 28 | All day | Instagram @UCLAEAF
-    description: "Check out the Enormous Activities Fair to learn more about SWE and how to get involved during
-    the school year!"
 
 -   title: Fall General Meeting (GM)
     image:
-    subtitle: October 8 | 6-8pm | Zoom Link TBD
+    subtitle: October 8 | 6-8 pm | Zoom  
     description: "Join us at our first meeting of the year! Hear about upcoming events, how to join committees, and stay an involved
-    member with SWE. :)"
+    member with SWE. RSVP <a href = http://tinyurl.com/swe-gen2020> here</a>! "
+
+-   title: Voting 101 Workshop
+    image:
+    subtitle: October 9 | 6-7 pm | Zoom  
+    description: "SWE Advocacy Committee presents why it's important to vote, how to register, what is on the ballot in LA/California, 
+    and how to continue to engage with the community outside of voting. RSVP <a href = https://tinyurl.com/swevoting101> here</a>!"
